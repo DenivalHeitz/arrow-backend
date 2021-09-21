@@ -1,0 +1,302 @@
+{
+    "AL": {
+        "stateName": "Alabama",
+        "stateCode": "AL",
+        "juneVax": 132000,
+        "julyVax": 238326
+    },
+    "AK": {
+        "stateName": "Alaska",
+        "stateCode": "AK",
+        "juneVax": 422172,
+        "julyVax": 298129
+    },
+    "AZ": {
+        "stateName": "Arizona",
+        "stateCode": "AZ",
+        "juneVax": 259391,
+        "julyVax": 115767
+    },
+    "AR": {
+        "stateName": "Arkansas",
+        "stateCode": "AR",
+        "juneVax": 139191,
+        "julyVax": 517028
+    },
+    "CA": {
+        "stateName": "California",
+        "stateCode": "CA",
+        "juneVax": 698952,
+        "julyVax": 554068
+    },
+    "CO": {
+        "stateName": "Colorado",
+        "stateCode": "CO",
+        "juneVax": 951026,
+        "julyVax": 330866
+    },
+    "CT": {
+        "stateName": "Connecticut",
+        "stateCode": "CT",
+        "juneVax": 292358,
+        "julyVax": 109740
+    },
+    "DE": {
+        "stateName": "Delaware",
+        "stateCode": "DE",
+        "juneVax": 109177,
+        "julyVax": 612164
+    },
+    "FL": {
+        "stateName": "Florida",
+        "stateCode": "FL",
+        "juneVax": 491355,
+        "julyVax": 447361
+    },
+    "GA": {
+        "stateName": "Georgia",
+        "stateCode": "GA",
+        "juneVax": 710430,
+        "julyVax": 824953
+    },
+    "HI": {
+        "stateName": "Hawaii",
+        "stateCode": "HI",
+        "juneVax": 848097,
+        "julyVax": 789368
+    },
+    "ID": {
+        "stateName": "Idaho",
+        "stateCode": "ID",
+        "juneVax": 898461,
+        "julyVax": 592146
+    },
+    "IL": {
+        "stateName": "Illinois",
+        "stateCode": "IL",
+        "juneVax": 576613,
+        "julyVax": 623723
+    },
+    "IN": {
+        "stateName": "Indiana",
+        "stateCode": "IN",
+        "juneVax": 743039,
+        "julyVax": 298581
+    },
+    "IA": {
+        "stateName": "Iowa",
+        "stateCode": "IA",
+        "juneVax": 954939,
+        "julyVax": 709603
+    },
+    "KS": {
+        "stateName": "Kansas",
+        "stateCode": "KS",
+        "juneVax": 281756,
+        "julyVax": 534651
+    },
+    "KY": {
+        "stateName": "Kentucky",
+        "stateCode": "KY",
+        "juneVax": 847187,
+        "julyVax": 751977
+    },
+    "LA": {
+        "stateName": "Louisiana",
+        "stateCode": "LA",
+        "juneVax": 246286,
+        "julyVax": 460392
+    },
+    "ME": {
+        "stateName": "Maine",
+        "stateCode": "ME",
+        "juneVax": 156199,
+        "julyVax": 585783
+    },
+    "MD": {
+        "stateName": "Maryland",
+        "stateCode": "MD",
+        "juneVax": 415165,
+        "julyVax": 785069
+    },
+    "MA": {
+        "stateName": "Massachusetts",
+        "stateCode": "MA",
+        "juneVax": 971818,
+        "julyVax": 368594
+    },
+    "MI": {
+        "stateName": "Michigan",
+        "stateCode": "MI",
+        "juneVax": 704489,
+        "julyVax": 497595
+    },
+    "MN": {
+        "stateName": "Minnesota",
+        "stateCode": "MN",
+        "juneVax": 905358,
+        "julyVax": 880842
+    },
+    "MS": {
+        "stateName": "Mississippi",
+        "stateCode": "MS",
+        "juneVax": 330673,
+        "julyVax": 577357
+    },
+    "MO": {
+        "stateName": "Missouri",
+        "stateCode": "MO",
+        "juneVax": 223081,
+        "julyVax": 773472
+    },
+    "MT": {
+        "stateName": "Montana",
+        "stateCode": "MT",
+        "juneVax": 726238,
+        "julyVax": 986112
+    },
+    "NE": {
+        "stateName": "Nebraska",
+        "stateCode": "NE",
+        "juneVax": 799493,
+        "julyVax": 631075
+    },
+    "NV": {
+        "stateName": "Nevada",
+        "stateCode": "NV",
+        "juneVax": 848316,
+        "julyVax": 967742
+    },
+    "NH": {
+        "stateName": "New Hampshire",
+        "stateCode": "NH",
+        "juneVax": 879549,
+        "julyVax": 876703
+    },
+    "NJ": {
+        "stateName": "New Jersey",
+        "stateCode": "NJ",
+        "juneVax": 867040,
+        "julyVax": 861100
+    },
+    "NM": {
+        "stateName": "New Mexico",
+        "stateCode": "NM",
+        "juneVax": 591118,
+        "julyVax": 637140
+    },
+    "NY": {
+        "stateName": "New York",
+        "stateCode": "NY",
+        "juneVax": 209729,
+        "julyVax": 990953
+    },
+    "NC": {
+        "stateName": "North Carolina",
+        "stateCode": "NC",
+        "juneVax": 601759,
+        "julyVax": 355744
+    },
+    "ND": {
+        "stateName": "North Dakota",
+        "stateCode": "ND",
+        "juneVax": 945501,
+        "julyVax": 199594
+    },
+    "OH": {
+        "stateName": "Ohio",
+        "stateCode": "OH",
+        "juneVax": 915791,
+        "julyVax": 582496
+    },
+    "OK": {
+        "stateName": "Oklahoma",
+        "stateCode": "OK",
+        "juneVax": 973879,
+        "julyVax": 921429
+    },
+    "OR": {
+        "stateName": "Oregon",
+        "stateCode": "OR",
+        "juneVax": 649818,
+        "julyVax": 604240
+    },
+    "PA": {
+        "stateName": "Pennsylvania",
+        "stateCode": "PA",
+        "juneVax": 653131,
+        "julyVax": 528406
+    },
+    "RI": {
+        "stateName": "Rhode Island",
+        "stateCode": "RI",
+        "juneVax": 584619,
+        "julyVax": 158622
+    },
+    "SC": {
+        "stateName": "South Carolina",
+        "stateCode": "SC",
+        "juneVax": 531152,
+        "julyVax": 807060
+    },
+    "SD": {
+        "stateName": "South Dakota",
+        "stateCode": "SD",
+        "juneVax": 635496,
+        "julyVax": 926973
+    },
+    "TN": {
+        "stateName": "Tennessee",
+        "stateCode": "TN",
+        "juneVax": 520745,
+        "julyVax": 302825
+    },
+    "TX": {
+        "stateName": "Texas",
+        "stateCode": "TX",
+        "juneVax": 264633,
+        "julyVax": 349898
+    },
+    "UT": {
+        "stateName": "Utah",
+        "stateCode": "UT",
+        "juneVax": 894799,
+        "julyVax": 299142
+    },
+    "VT": {
+        "stateName": "Vermont",
+        "stateCode": "VT",
+        "juneVax": 300425,
+        "julyVax": 726353
+    },
+    "VA": {
+        "stateName": "Virginia",
+        "stateCode": "VA",
+        "juneVax": 756103,
+        "julyVax": 363731
+    },
+    "WA": {
+        "stateName": "Washington",
+        "stateCode": "WA",
+        "juneVax": 736344,
+        "julyVax": 273394
+    },
+    "WV": {
+        "stateName": "West Virginia",
+        "stateCode": "WV",
+        "juneVax": 656912,
+        "julyVax": 236642
+    },
+    "WI": {
+        "stateName": "Wisconsin",
+        "stateCode": "WI",
+        "juneVax": 730195,
+        "julyVax": 918340
+    },
+    "WY": {
+        "stateName": "Wyoming",
+        "stateCode": "WY",
+        "juneVax": 219127,
+        "julyVax": 614310
+    }
+}

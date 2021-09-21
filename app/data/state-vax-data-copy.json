@@ -1,0 +1,33 @@
+[
+    {
+        "stateName": "Alabama",
+        "stateCode": "AL",
+        "juneVax": 132000,
+        "julyVax": 238326
+    },
+    {
+        "stateName": "Alaska",
+        "stateCode": "AK",
+        "juneVax": 422172,
+        "julyVax": 298129
+    },
+    {
+        "stateName": "Arizona",
+        "stateCode": "AZ",
+        "juneVax": 259391,
+        "julyVax": 115767
+    },
+    {
+        "stateName": "Arkansas",
+        "stateCode": "AR",
+        "juneVax": 139191,
+        "julyVax": 517028
+    },
+    {
+        "stateName": "California",
+        "stateCode": "CA",
+        "juneVax": 698952,
+        "julyVax": 554068
+    }
+    
+]
